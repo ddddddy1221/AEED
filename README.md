@@ -46,17 +46,3 @@ The Kinectic-400 implementation is based on [ST-GCN++](https://github.com/kennym
 
 Thanks to the original authors for their work!
 
-# Citation
-
-Please cite this work if you find it useful:.
-
-      @InProceedings{Shap_Zhang24,
-          author = {Zhang, Jiahang and Lin, Lilang and Liu, Jiaying},
-          title = {Shap-Mix: Shapley Value Guided Mixing for Long-Tailed Skeleton Based Action Recognition},
-          booktitle = {International Joint Conference on Artificial Intelligence (IJCAI)},
-          year = {2024}
-      }
-
-
-# Contact
-For any questions, feel free to contact: `zjh2020@pku.edu.cn`
