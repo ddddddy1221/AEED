@@ -1,9 +1,8 @@
 # AEED
 
 
-This repo is the official implementation for [Shap-Mix: Shapley Value Guided Mixing for Long-Tailed Skeleton Based Action Recognition](https://arxiv.org/abs/2407.12312). The paper is accepted to IJCAI 2024. 
+This repo is the official implementation for Learning Dynamics as Feedback: An Adaptive Entropy Flow Dynamics Framework for Long-tailed Human Action Recognition. The paper is accepted to AAAI 2026. 
 
-*This is an efficient and effective plug-in augmentation method to improve your skeleton-based action recognition model.*
 
 ## Method Overview
 ![image](src/pipeline.png)
@@ -34,10 +33,6 @@ We provide two implementations for DDP mode and single GPU:
 ```
 python  shapley_mix_main_k400.py --config /mnt/netdisk/zhangjh/Code/CTR-GCN-main/work_dir/k400/ctrgcn_joint/shapley_mix_len100_cos/config.yaml
 ```
-
-### Pretrained Models
-
-- The pretrained models can be found [here](https://drive.google.com/drive/folders/1XuBTaDTwdK5JB2dqqavBS_W-EUKwR1nU?usp=sharing).
 
 ## Acknowledgements
 
